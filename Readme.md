@@ -1,3 +1,0 @@
-#stuff
-#foo
-#how
